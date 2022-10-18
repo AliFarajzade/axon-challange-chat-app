@@ -46,7 +46,7 @@ yarn build
 yarn start
 ```
 
-### You can use the project now with diffrent people (you can simulate that with opening multiple tabs) and start chatting with each other.
+### You can use the project now with diffrent people (you can simulate that with opening multiple tabs) and start chatting with each other. Everyone will get notified when a new room is craeted.
 
 ### The tech-stack for this project is Typescript, Next, SCSS, Node, Express and Socket.io.
 
